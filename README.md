@@ -1,6 +1,5 @@
 # 🤖 AgentCore — Ask, Search, and Discover Instantly
 
-![AgentCore Banner](https://via.placeholder.com/800x200/4285f4/ffffff?text=AgentCore+AI+Agent)
 
 A powerful AI-powered agent built with Streamlit and LangChain that can search across multiple sources, provide weather information, and answer questions using various specialized tools.
 
