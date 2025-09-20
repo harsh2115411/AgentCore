@@ -1,5 +1,5 @@
 # 🤖 AgentCore — Ask, Search, and Discover Instantly
-## 🚀 Live Demo: [Click Here](https://notesai-harsh-pilania.streamlit.app/)
+## 🚀 Live Demo: [Click Here](https://agentcore-harsh-pilania.streamlit.app/)
 ## 📱DEMO Video: [Click Here](https://drive.google.com/file/d/1zafq_EU6Zat4WqX8z_0swKnBs2COPbjq/view?usp=sharing)
 
 ## Home page :
