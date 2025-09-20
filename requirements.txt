@@ -11,14 +11,3 @@ langchain-openai
 
 
 
-'''def safe_duckduckgo_search(query: str) -> str:
-    try:
-        return duckduckgo.run(query)
-    except Exception as e:
-        return f"⚠️ Web search failed: {str(e)}
-
-web_search = Tool(
-    name="Web Search",
-    func=safe_duckduckgo_search,
-    description="Search the web for information"
-)'''
